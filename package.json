@@ -1,0 +1,22 @@
+{
+  "name": "nearChat",
+  "version": "0.0.0",
+  "description": "Near Chat",
+  "main": "web.js",
+  "scripts": {
+    "test": "test commnd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rodrigozimmer/heroku.git"
+  },
+  "keywords": [
+    "exemple",
+    "heroku"
+  ],
+  "author": "Rodrigo zimmer",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~1.1.2"
+  }
+}
